@@ -60,8 +60,8 @@ $ npm run test:cov
 
 ## build container
 ```cmd
-docker build -t registry.cdgs.co.th/id210010/search-ui-service:<tagName> .
-docker push registry.cdgs.co.th/id210010/search-ui-service:<tagName>
+docker build -t <name>:<tagName> .
+docker push <name>:<tagName>
 ```
 
 ## Support
