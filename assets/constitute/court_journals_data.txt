@@ -1,0 +1,133 @@
+POST court_journals/_bulk
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 22 ฉบับที่ 64 เดือน มกราคม - เมษายน 2563", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2563", "number_of_pages" : "364 หน้า", "file_name" : "Journal_64.JPG", "file_size" : "7.81 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 22 ฉบับที่ 65 เดือน พฤษภาคม - สิงหาคม 2563", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พรินท์ จำกัด", "issue_year" : "2563", "number_of_pages" : "350 หน้า", "file_name" : "Journal_65.JPG", "file_size" : "8.24 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 21 ฉบับที่ 62 เดือน พฤษภาคม - สิงหาคม 2562", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2562", "number_of_pages" : "284 หน้า", "file_name" : "Journal_62.JPG", "file_size" : "8.57 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 21 ฉบับที่ 63 เดือน กันยายน - ธันวาคม 2562", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2562", "number_of_pages" : "286 หน้า", "file_name" : "Journal_63.JPG", "file_size" : "8.57 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 21 ฉบับที่ 61 เดือน มกราคม - เมษายน 2562", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2562", "number_of_pages" : "330 หน้า", "file_name" : "Journal_61.JPG", "file_size" : "7.10 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 20 ฉบับที่ 58 เดือน มกราคม - เมษายน 2561", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2561", "number_of_pages" : "364 หน้า", "file_name" : "Journal_58.JPG", "file_size" : "5.2 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 20 ฉบับที่ 59 เดือน พฤษภาคม - สิงหาคม 2561", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2561", "number_of_pages" : "294 หน้า", "file_name" : "Journal_59.JPG", "file_size" : "3.3 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 20 ฉบับที่ 60 เดือนกันยายน - ธันวาคม 2561", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "แอคทีฟ พริ้นท์", "issue_year" : "2561", "number_of_pages" : "326 หน้า", "file_name" : "Journal_60.JPG", "file_size" : "4.16 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 18 ฉบับที่ 54 เดือน กันยายน - ธันวาคม 2559", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2560", "number_of_pages" : "282", "file_name" : "54.jpg", "file_size": ":" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 19 ฉบับที่ 55 เดือน มกราคม - เมษายน 2560", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "ธนาเพรส", "issue_year" : "2560", "number_of_pages" : "300", "file_name" : "Journal_55.jpg", "file_size" : "4.90 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 19 ฉบับที่ 56 เดือน พฤษภาคม - สิงหาคม 2560", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "ธนาเพรส", "issue_year" : "2560", "number_of_pages" : "326", "file_name" : "Journal_56.JPG", "file_size" : "8.8 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 19 ฉบับที่ 57 เดือน กันยายน - ธันวาคม 2560", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "ธนาเพรส", "issue_year" : "2560", "number_of_pages" : "348 หน้า", "file_name" : "Journal_57.JPG", "file_size" : "5.09 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 17 ฉบับที่ 51 เดือน กันยายน - ธันวาคม 2558", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2559", "number_of_pages" : "265", "file_name" : "10030 (Custom).jpg", "file_size" : "4.32 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 18 ฉบับที่ 52 เดือน มกราคม - เมษายน 2559", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2559", "number_of_pages" : "269", "file_name" : "52.jpg", "file_size": ":" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 18 ฉบับที่ 53 เดือน พฤษภาคม - สิงหาคม 2559", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2559", "number_of_pages" : "304", "file_name" : "Journal_53 r.jpg", "file_size" : "4.48 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 17 ฉบับที่ 49 เดือน มกราคม - เมษายน 2558", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2558", "number_of_pages" : "257", "file_name" : "Journal_49.jpg", "file_size" : "39.1 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 17 ฉบับที่ 50 เดือน พฤษภาคม - สิงหาคม 2558", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2558", "number_of_pages" : "252", "file_name" : "Journal_50.jpg", "file_size" : "4.32 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 16 ฉบับที่ 46 เดือน มกราคม - เมษายน 2557", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2557", "number_of_pages" : "215", "file_name" : "Journal_46.jpg", "file_size" : "4.07 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 16 ฉบับที่ 47 เดือน พฤษภาคม - สิงหาคม 2557", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2557", "number_of_pages" : "246", "file_name" : "Journal_47.jpg", "file_size" : "7.46 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 16 ฉบับที่ 48 เดือน กันยายน - ธันวาคม 2557", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2557", "number_of_pages" : "289", "file_name" : "Journal_48.jpg", "file_size" : "5.98 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 15 ฉบับที่ 43 เดือน มกราคม - เมษายน 2556", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2556", "number_of_pages" : "199", "file_name" : "Journal_43.jpg", "file_size" : "3.72 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 15 ฉบับที่ 44 เดือน พฤษภาคม - สิงหาคม 2556", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2556", "number_of_pages" : "158", "file_name" : "Journal_44.jpg", "file_size" : "3.83 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 15 ฉบับที่ 45 เดือน กันยายน - ธันวาคม 2556", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2556", "number_of_pages" : "196", "file_name" : "Journal_45.jpg", "file_size" : "4.78 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 14 ฉบับที่ 40 เดือน มกราคม - เมษายน 2555", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2555", "number_of_pages" : "149", "file_name" : "Journal_40.jpg", "file_size" : "1.87 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 14 ฉบับที่ 41 เดือน พฤษภาคม - สิงหาคม 2555", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2555", "number_of_pages" : "171", "file_name" : "Journal_41.jpg", "file_size" : "4.09 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 14 ฉบับที่ 42 เดือน กันยายน - ธันวาคม 2555", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2555", "number_of_pages" : "173", "file_name" : "Journal_42.jpg", "file_size" : "4.21 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 13 ฉบับที่ 37 เดือน มกราคม - เมษายน 2554", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2554", "number_of_pages" : "194", "file_name" : "Journal_37.jpg", "file_size" : "4.49 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 13 ฉบับที่ 38 เดือน พฤษภาคม - สิงหาคม 2554", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2554", "number_of_pages" : "184", "file_name" : "Journal_38.jpg", "file_size" : "1.36 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 13 ฉบับที่ 39 เดือน กันยายน - ธันวาคม 2554", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2554", "number_of_pages" : "202", "file_name" : "Journal_39.jpg", "file_size" : "1.48 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 12 ฉบับที่ 34 เดือน มกราคม - เมษายน 2553", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2553", "number_of_pages" : "166", "file_name" : "Journal_34.jpg", "file_size" : "12.3 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 12 ฉบับที่ 35 เดือน พฤษภาคม - สิงหาคม 2553", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2553", "number_of_pages" : "193", "file_name" : "Journal_35.jpg", "file_size" : "1.32 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 12 ฉบับที่ 36 เดือน กันยายน - ธันวาคม 2553", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2553", "number_of_pages" : "141", "file_name" : "Journal_36.jpg", "file_size" : "1.06 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 11 ฉบับที่ 31 เดือน มกราคม - เมษายน 2552", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2552", "number_of_pages" : "168", "file_name" : "Journal_31.jpg", "file_size" : "13.5 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 11 ฉบับที่ 32 เดือน พฤษภาคม - สิงหาคม 2552", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2552", "number_of_pages" : "188", "file_name" : "Journal_32.jpg", "file_size" : "15.8 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 11 ฉบับที่ 33 เดือน กันยายน - ธันวาคม 2552", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2552", "number_of_pages" : "204", "file_name" : "Journal_33.jpg", "file_size" : "13.1 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 10 ฉบับที่ 28 เดือน มกราคม - เมษายน 2551", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2551", "number_of_pages" : "148", "file_name" : "Journal_28.jpg", "file_size" : "11.1 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 10 ฉบับที่ 29 เดือน พฤษภาคม - สิงหาคม 2551", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2551", "number_of_pages" : "110", "file_name" : "Journal_29.jpg", "file_size" : "11.6 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 10 ฉบับที่ 30 เดือน กันยายน - ธันวาคม 2551", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2551", "number_of_pages" : "164", "file_name" : "Journal_30.jpg", "file_size" : "12.8 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 9 ฉบับที่ 25 เดือน มกราคม - เมษายน 2550", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2550", "number_of_pages" : "174", "file_name" : "Journal_25.jpg", "file_size" : "12.4 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 9 ฉบับที่ 26 เดือน พฤษภาคม - สิงหาคม 2550", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2550", "number_of_pages" : "316", "file_name" : "Journal_26.jpg", "file_size" : "18.3 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 9 ฉบับที่ 27 เดือน กันยายน - ธันวาคม 2550", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2550", "number_of_pages" : "172", "file_name" : "Journal_27.jpg", "file_size" : "11.8 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 8 ฉบับที่ 22 เดือน มกราคม - เมษายน 2549", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2549", "number_of_pages" : "176", "file_name" : "Journal_22.jpg", "file_size" : "19.9 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 8 ฉบับที่ 23 เดือน พฤษภาคม - สิงหาคม 2549", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2549", "number_of_pages" : "192", "file_name" : "Journal_23.jpg", "file_size" : "14.3 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 8 ฉบับที่ 24 เดือน กันยายน - ธันวาคม 2549", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2549", "number_of_pages" : "200", "file_name" : "Journal_24.jpg", "file_size" : "14.2 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 7 ฉบับที่ 19 เดือน มกราคม - เมษายน 2548", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2548", "number_of_pages" : "164", "file_name" : "Journal_19.jpg", "file_size" : "17.2 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 7 ฉบับที่ 20 เดือน พฤษภาคม - สิงหาคม 2548", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2548", "number_of_pages" : "152", "file_name" : "Journal_20.jpg", "file_size" : "19.4 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 7 ฉบับที่ 21 เดือน กันยายน - ธันวาคม 2548", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2548", "number_of_pages" : "200", "file_name" : "Journal_21.jpg", "file_size" : "25.5 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 6 ฉบับที่ 16 เดือน มกราคม - เมษายน 2547", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2547", "number_of_pages" : "204", "file_name" : "Journal_16.jpg", "file_size" : "18.4 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 6 ฉบับที่ 17 เดือน พฤษภาคม - สิงหาคม 2547", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2547", "number_of_pages" : "200", "file_name" : "Journal_17.jpg", "file_size" : "21.9 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 6 ฉบับที่ 18 เดือน กันยายน - ธันวาคม 2547", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2547", "number_of_pages" : "182", "file_name" : "Journal_18.jpg", "file_size" : "20.6 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 5 ฉบับที่ 13 เดือน มกราคม - เมษายน 2546", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2546", "number_of_pages" : "260", "file_name" : "Journal_13.jpg", "file_size" : "25.8 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 5 ฉบับที่ 14 เดือน พฤษภาคม - สิงหาคม 2546", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2546", "number_of_pages" : "168", "file_name" : "Journal_14.jpg", "file_size" : "20.7 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 5 ฉบับที่ 15 เดือน กันยายน - ธันวาคม 2546", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2546", "number_of_pages" : "158", "file_name" : "Journal_15.jpg", "file_size" : "15.0 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 4 ฉบับที่ 10 เดือน มกราคม - เมษายน 2545", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2545", "number_of_pages" : "180", "file_name" : "Journal_10.jpg", "file_size" : "15.1 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 4 ฉบับที่ 11 เดือน พฤษภาคม - สิงหาคม 2545", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2545", "number_of_pages" : "166", "file_name" : "Journal_11.jpg", "file_size" : "12.4 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 4 ฉบับที่ 12 เดือน กันยายน - ธันวาคม 2545", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2545", "number_of_pages" : "218", "file_name" : "Journal_12.jpg", "file_size" : "17.7 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 3 ฉบับที่ 7 เดือน มกราคม - เมษายน 2544", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2544", "number_of_pages" : "230", "file_name" : "Journal_7.jpg", "file_size" : "24.3 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 3 ฉบับที่ 8 เดือน พฤษภาคม - สิงหาคม 2544", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2544", "number_of_pages" : "168", "file_name" : "Journal_8.jpg", "file_size" : "22.0 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 3 ฉบับที่ 9 เดือน กันยายน - ธันวาคม 2544", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2544", "number_of_pages" : "180", "file_name" : "Journal_9.jpg", "file_size" : "20.4 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 2 ฉบับที่ 4 เดือน มกราคม - เมษายน 2543", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2543", "number_of_pages" : "168", "file_name" : "Journal_4.jpg", "file_size" : "13.3 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 2 ฉบับที่ 5 เดือน พฤษภาคม - สิงหาคม 2543", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2543", "number_of_pages" : "176", "file_name" : "Journal_5.jpg", "file_size" : "13.2 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 2 ฉบับที่ 6 เดือน กันยายน - ธันวาคม 2543", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2543", "number_of_pages" : "162", "file_name" : "Journal_6.jpg", "file_size" : "13.0 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 1 ฉบับที่ 1 เดือน มกราคม - เมษายน 2542", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2542", "number_of_pages" : "164", "file_name" : "Journal_1.jpg", "file_size" : "9.59 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 1 ฉบับที่ 2 เดือน พฤษภาคม - สิงหาคม 2542", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2542", "number_of_pages" : "156", "file_name" : "Journal_2.jpg", "file_size" : "7.89 MB" }
+{"index":{}}
+{ "ISSN" : "1513-1246", "place_of_publication" : "สำนักงานศาลรัฐธรรมนูญ", "title" : "วารสารศาลรัฐธรรมนูญ", "issue" : "ปีที่ 1 ฉบับที่ 3 เดือน กันยายน - ธันวาคม 2542", "publisher_address" : "กรุงเทพฯ", "publisher_name" : "สำนักงานศาลรัฐธรรมนูญ,", "issue_year" : "2542", "number_of_pages" : "182", "file_name" : "Journal_3.jpg", "file_size" : "14.4 MB" }
+
+
