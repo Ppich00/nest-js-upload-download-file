@@ -10,7 +10,7 @@ import { SearchLogService } from './search-log/search-log.service';
   imports: [
     TypeOrmModule.forRoot({
       type: 'mysql',
-      host: '172.22.0.2',
+      host: 'database_sql',
       port: 3306,
       username: 'root',
       password: '12345678',
