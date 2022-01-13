@@ -1,0 +1,43 @@
+version: '3'
+
+networks:
+  db_network:
+
+    null
+services:
+  db:
+    image: mysql:latest
+    command: --default-authentication-plugin=mysql_native_password
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'test'
+      MYSQL_ROOT_PASSWORD: 12345678
+    ports:
+      - 3306:3306
+    networks:
+      - db_network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: myadmin2
+    restart: always
+    ports:
+      - '8080:80'
+    environment:
+      # PMA_HOST: dolphin
+      PMA_ARBITRARY: 1
+    networks:
+      - db_network
+
+  service-backend:
+    image: registry.cdgs.co.th/id210010/search-ui-service:0.0.1
+    container_name: service_backend
+    restart: always
+    environment:
+      # PMA_HOST: dolphin
+      PMA_ARBITRARY: 1
+    ports:
+      - '3000:3000'
+    networks:
+      - db_network
