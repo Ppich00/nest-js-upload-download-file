@@ -60,10 +60,15 @@ $ npm run test:cov
 
 ## build container
 ```cmd
-docker build -t <name>:<tagName> .
-docker push <name>:<tagName>
+docker build -t registry.cdgs.co.th/id210010/search-ui-service:<tagName> .
+docker push registry.cdgs.co.th/id210010/search-ui-service:<tagName>
 ```
 
+## deploy
+```
+cd search-app/serch-ui-service/
+docker-compose -f search-ui.yml up -d
+```
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).

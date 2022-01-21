@@ -1,21 +1,17 @@
-import { Controller, Get, HttpException, HttpStatus, Logger, Param, Post, Req, Request, Res, StreamableFile, UploadedFile, UploadedFiles, UseInterceptors } from '@nestjs/common';
-import { FileInterceptor, FilesInterceptor } from '@nestjs/platform-express';
-import { AppService } from './app.service';
-import { createReadStream, readFile, statSync, writeFile } from 'fs';
-import { formatWithCursor } from 'prettier';
-import { diskStorage } from 'multer';
-import { bindNodeCallback, catchError, EMPTY, mapTo, of, tap } from 'rxjs';
-import * as path from 'path';
-import { join } from 'path';
+import { Controller, Get, HttpException, HttpStatus, Logger, Param, Post, Res, UploadedFile, UseInterceptors } from '@nestjs/common';
+import { FileInterceptor } from '@nestjs/platform-express';
 import { Response } from 'express';
-import { InjectRepository } from '@nestjs/typeorm';
-import { Repository, TransactionRepository } from 'typeorm';
-import { SearchLogService } from './search-log/search-log.service';
+import { createReadStream, existsSync, statSync, writeFile } from 'fs';
+import { join } from 'path';
+import { bindNodeCallback, catchError, mapTo, tap } from 'rxjs';
+
 @Controller()
 export class AppController {
+
   private readonly logger = new Logger(AppController.name)
-  constructor(private service: SearchLogService) {
-    // this.searchRepository.fin
+  constructor(
+  ) {
+
 
   }
 
@@ -38,39 +34,55 @@ export class AppController {
   }
 
   @Get('download/:folder/:fileName')
-  getfile(@Res() res: Response, @Param() param: { folder: string, fileName: string }) {
-    this.service.createUser({
-      id: 0,
-      user_id: "1",
-      user_name: "test",
-      dept_id: "1",
-      dept_name: "test",
-      role_id: "1",
-      role_name: "test",
-      search_keyword: "test",
-      search_date: new Date(),
-      short_statement: "test",
-      item_id: "1",
-      item_name: param.fileName,
-      item_upload_date: new Date(),
-      item_category: param.folder,
-      item_overview: ''
-    })
+  async getfile(@Res() res: Response, @Param() param: { folder: string, fileName: string }) {
     const filePath = join(process.cwd(), 'assets', param.folder, param.fileName);
-    const file = createReadStream(filePath)
-    const stat = statSync(filePath);
-    res.set({
-      'Content-Disposition': `attachment; filename="${param.fileName}"`,
-      'Content-Length': stat.size
-    });
 
-    file.pipe(res)
-    // this.service.update()
+    if (existsSync(filePath)) {
+      const stat = statSync(filePath);
+
+      /** update database */
+      // await this.service.createData({
+      //   id: 0,
+      //   user_id: "1",
+      //   user_name: "test",
+      //   dept_id: "1",
+      //   dept_name: "test",
+      //   role_id: "1",
+      //   role_name: "test",
+      //   search_keyword: "test",
+      //   search_date: new Date(),
+      //   short_statement: "test",
+      //   item_id: "1",
+      //   item_name: param.fileName,
+      //   item_upload_date: new Date(),
+      //   item_category: param.folder,
+      //   item_overview: ''
+      // })
+
+      const file = createReadStream(filePath)
+
+      var mime = require('mime');
+
+
+      res.set({
+        'Content-Disposition': `attachment; filename="${param.fileName}"`,
+        'Content-Length': stat.size,
+        "Access-Control-Allow-Headers": "X-Requested-With",
+        'content-type': mime.getType(filePath)
+      });
+
+      file.pipe(res);
+      this.logger.log(`Download File : ${filePath} Success`);
+    } else {
+      res.setHeader("Content-Type", 'text/plain');
+      res.statusCode = HttpStatus.NOT_FOUND
+      res.write("FILE NOT FOUND");
+      res.end();
+      this.logger.log(`File Not Found`);
+    }
+
+
   }
 
-  @Get()
-  getAll() {
 
-    return this.service.getDataById(3)
-  }
 }

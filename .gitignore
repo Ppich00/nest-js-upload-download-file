@@ -397,3 +397,7 @@ Temporary Items
 .env
 dist
 package-lock.json
+assets/cruling/
+assets/constitute/
+assets/journals
+assets/ruling

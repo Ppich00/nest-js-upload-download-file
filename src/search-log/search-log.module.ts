@@ -5,7 +5,9 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { SearchLogEntity } from './search-log.entity';
 
 @Module({
-  imports: [TypeOrmModule.forFeature([SearchLogEntity])],
+  imports: [
+    TypeOrmModule.forFeature([SearchLogEntity])
+  ],
   providers: [SearchLogService],
   controllers: [SearchLogController],
   exports:[SearchLogService]

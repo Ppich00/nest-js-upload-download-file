@@ -24,7 +24,7 @@ export class SearchLogController {
     create(@Body() user: SearchLogEntity) {
         console.log(user);
 
-        return this.service.createUser(user);
+        return this.service.createData(user);
     }
 
     

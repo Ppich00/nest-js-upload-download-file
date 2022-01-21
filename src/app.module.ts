@@ -8,24 +8,26 @@ import { SearchLogService } from './search-log/search-log.service';
 
 @Module({
   imports: [
-    TypeOrmModule.forRoot({
-      type: 'mysql',
-      host: 'database_sql',
-      port: 3306,
-      username: 'root',
-      password: '12345678',
-      database: 'test',
-      autoLoadEntities: true,
-      synchronize: true,
-    }),
-    SearchLogModule
+    /** connect database */
+    // // TypeOrmModule.forRoot({
+    // //   type: 'mysql',
+    // //   host: 'localhost',
+    // //   port: 3306,
+    // //   username: 'root',
+    // //   password: '12345678',
+    // //   database: 'test',
+    // //   autoLoadEntities: true,
+    // //   synchronize: false, /** ถ้า true จะ syn กับ database จะสร้าง table ตาม entity */
+    // // }),
+    // SearchLogModule
+    /** connect database */
   ],
   controllers: [AppController],
   providers: [AppService],
 })
 export class AppModule {
-  constructor(private connection: Connection) {
-    // console.log(this.connection.isConnected);
+  // constructor(private connection: Connection) {
+  //   // console.log(this.connection.isConnected);
 
-  }
+  // }
 }

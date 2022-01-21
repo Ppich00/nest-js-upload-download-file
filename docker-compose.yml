@@ -6,21 +6,27 @@ services:
     image: registry.cdgs.co.th/id210010/search-ui-service:0.0.1
     ports:
       - '3000:3000'
-  database_sql:
-    image: mysql:5.7
-    container_name: database_sql
-    environment:
-      - MYSQL_ROOT_PASSWORD=12345678
-      - MYSQL_DATABASE=test
-    ports:
-      - '3307:3306'
+    volumes:
+      - /root/search-app/fsc/constitute/files:/assets/constitute
+      - /root/search-app/fsc/cruling/files:/assets/cruling
+      - /root/search-app/fsc/journals/files:/assets/journals
+      - /root/search-app/fsc/ruling/files:/assets/ruling
 
-  phpmyadmin:
-    image: phpmyadmin/phpmyadmin
-    container_name: phpmyadmin
-    ports:
-      - '8000:80'
-    links:
-      - database_sql
-    environment:
-      PMA_HOST: database_sql
+  # database_sql:
+  #   image: mysql:5.7
+  #   container_name: database_sql
+  #   environment:
+  #     - MYSQL_ROOT_PASSWORD=12345678
+  #     - MYSQL_DATABASE=test
+  #   ports:
+  #     - '3306:3306'
+
+  # phpmyadmin:
+  #   image: phpmyadmin/phpmyadmin
+  #   container_name: phpmyadmin
+  #   ports:
+  #     - '8000:80'
+  #   links:
+  #     - database_sql
+  #   environment:
+  #     PMA_HOST: database_sql

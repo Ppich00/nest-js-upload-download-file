@@ -20,8 +20,8 @@ export class SearchLogService {
         return await this.searchRepository.findByIds(id);
     }
 
-    async createUser(user: SearchLogEntity) {
-        return this.searchRepository.save(user)
+    async createData(data: SearchLogEntity) {
+        return this.searchRepository.save(data)
     }
 
     async updatePreview(id) {
